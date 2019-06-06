@@ -1,4 +1,10 @@
+#main {
+    text-align: center;
+}
 
+#subtitle {
+    font-size: 1.2em;
+}
 
 #image {
     max-width: 70%;
@@ -11,3 +17,28 @@
     text-align: center;
 }
 
+#headline {
+    text-align: center;
+}
+
+#tribute-info {
+    max-width: 700px;
+    text-align: left;
+    margin: 1em auto;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+#salute-img {
+    width: 25%;
+    display: block;
+    height: auto;
+    margin: 1em auto;
+}
+
+#marathon-caption {
+    font-size: 1.7em;
+}
