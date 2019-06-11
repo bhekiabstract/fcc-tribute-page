@@ -1,5 +1,14 @@
+body {
+    font-size: 1.1em;
+}
+
 #main {
     text-align: center;
+}
+
+#title, #headline {
+    font-family: 'Noto Serif JP', serif;
+    color: blue;
 }
 
 #subtitle {
@@ -40,5 +49,6 @@ ul {
 }
 
 #marathon-caption {
+    font-family: 'Rouge Script', cursive;
     font-size: 1.7em;
 }
